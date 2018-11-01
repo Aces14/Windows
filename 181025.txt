@@ -1,0 +1,59 @@
+[System Process]	0	TCP	desktop-mmjvnjs.localdomain	50196	64.4.54.254	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-mmjvnjs.localdomain	50197	64.4.54.254	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-mmjvnjs.localdomain	50204	desktop-lu0kfm7.ksd.edu	ms-do	TIME_WAIT										
+lsass.exe	616	TCP	DESKTOP-MMJVNJS	49674	DESKTOP-MMJVNJS	0	LISTENING										
+lsass.exe	616	TCPV6	desktop-mmjvnjs	49674	desktop-mmjvnjs	0	LISTENING										
+MicrosoftEdgeCP.exe	7412	TCP	desktop-mmjvnjs.localdomain	50216	64.4.54.254	https	ESTABLISHED	3	3,030	4	5,968						
+MicrosoftEdgeCP.exe	7412	TCP	desktop-mmjvnjs.localdomain	50217	64.4.54.254	https	ESTABLISHED	3	3,029	4	5,968						
+services.exe	600	TCP	DESKTOP-MMJVNJS	49668	DESKTOP-MMJVNJS	0	LISTENING										
+services.exe	600	TCPV6	desktop-mmjvnjs	49668	desktop-mmjvnjs	0	LISTENING										
+spoolsv.exe	2012	TCP	DESKTOP-MMJVNJS	49667	DESKTOP-MMJVNJS	0	LISTENING										
+spoolsv.exe	2012	TCPV6	desktop-mmjvnjs	49667	desktop-mmjvnjs	0	LISTENING										
+svchost.exe	860	TCP	DESKTOP-MMJVNJS	epmap	DESKTOP-MMJVNJS	0	LISTENING										
+svchost.exe	3312	TCP	desktop-mmjvnjs.localdomain	5040	DESKTOP-MMJVNJS	0	LISTENING										
+svchost.exe	1188	TCP	DESKTOP-MMJVNJS	49665	DESKTOP-MMJVNJS	0	LISTENING										
+svchost.exe	304	TCP	DESKTOP-MMJVNJS	49666	DESKTOP-MMJVNJS	0	LISTENING										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50015	tt-350-4h9r8z1.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50020	hi-10-ctnx7y1.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50021	ch-att-4shzz72.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50025	tt-125-h9mym02.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50027	le-par-cnfw5h2.ksd.edu	ms-do	FIN_WAIT2										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50028	ka-gup2-c4q8312.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50030	ka-p3-941w7y1.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50031	ch-214-4l8xx52.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50032	tt-125-h9nym02.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50034	ch-217-d2w7j12.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50037	wa-cow-4vwt2f2.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	4272	TCP	desktop-mmjvnjs.localdomain	50042	ch-217-d2w7j12.ksd.edu	ms-do	ESTABLISHED										
+svchost.exe	2412	TCP	desktop-mmjvnjs.localdomain	50131	52.173.28.179	https	ESTABLISHED	1	72								
+svchost.exe	2412	TCP	desktop-mmjvnjs.localdomain	50154	52.165.170.112	https	ESTABLISHED										
+svchost.exe	4272	TCP	DESKTOP-MMJVNJS	ms-do	DESKTOP-MMJVNJS	0	LISTENING										
+svchost.exe	2396	UDP	DESKTOP-MMJVNJS	ssdp	*	*				3	411						
+svchost.exe	2396	UDP	desktop-mmjvnjs.localdomain	ssdp	*	*											
+svchost.exe	3312	UDP	DESKTOP-MMJVNJS	5050	*	*											
+svchost.exe	1608	UDP	DESKTOP-MMJVNJS	5353	*	*											
+svchost.exe	1608	UDP	DESKTOP-MMJVNJS	llmnr	*	*											
+svchost.exe	2556	UDP	DESKTOP-MMJVNJS	49992	*	*											
+svchost.exe	2396	UDP	desktop-mmjvnjs.localdomain	56220	*	*											
+svchost.exe	2396	UDP	DESKTOP-MMJVNJS	56221	*	*		3	411								
+svchost.exe	860	TCPV6	desktop-mmjvnjs	epmap	desktop-mmjvnjs	0	LISTENING										
+svchost.exe	4272	TCPV6	desktop-mmjvnjs	ms-do	desktop-mmjvnjs	0	LISTENING										
+svchost.exe	1188	TCPV6	desktop-mmjvnjs	49665	desktop-mmjvnjs	0	LISTENING										
+svchost.exe	304	TCPV6	desktop-mmjvnjs	49666	desktop-mmjvnjs	0	LISTENING										
+svchost.exe	2396	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	2396	UDPV6	[fe80:0:0:0:38d0:604b:71ea:1d66]	1900	*	*											
+svchost.exe	1608	UDPV6	desktop-mmjvnjs	5353	*	*											
+svchost.exe	1608	UDPV6	desktop-mmjvnjs	5355	*	*											
+svchost.exe	2396	UDPV6	[fe80:0:0:0:38d0:604b:71ea:1d66]	56218	*	*											
+svchost.exe	2396	UDPV6	[0:0:0:0:0:0:0:1]	56219	*	*											
+System	4	TCP	desktop-mmjvnjs.localdomain	netbios-ssn	DESKTOP-MMJVNJS	0	LISTENING										
+System	4	TCP	DESKTOP-MMJVNJS	microsoft-ds	DESKTOP-MMJVNJS	0	LISTENING										
+System	4	UDP	desktop-mmjvnjs.localdomain	netbios-ns	*	*		3	204								
+System	4	UDP	desktop-mmjvnjs.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	desktop-mmjvnjs	microsoft-ds	desktop-mmjvnjs	0	LISTENING										
+wininit.exe	476	TCP	DESKTOP-MMJVNJS	49664	DESKTOP-MMJVNJS	0	LISTENING										
+wininit.exe	476	TCPV6	desktop-mmjvnjs	49664	desktop-mmjvnjs	0	LISTENING										
+WinStore.App.exe	7356	TCP	desktop-mmjvnjs.localdomain	50050	a23-60-74-11.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT			1	31						
+WinStore.App.exe	7356	TCP	desktop-mmjvnjs.localdomain	50051	72.21.91.29	http	CLOSE_WAIT										
+WinStore.App.exe	7356	TCP	desktop-mmjvnjs.localdomain	50054	a23-49-12-101.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT			1	31						
+WinStore.App.exe	7356	TCP	desktop-mmjvnjs.localdomain	50055	a23-60-74-11.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT			1	31						
